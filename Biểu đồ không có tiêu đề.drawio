@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Trang-1" id="LULvLW1KIduPpgqFY6G2">
-    <mxGraphModel dx="1184" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="575" dy="303" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -56,7 +56,7 @@
           <mxGeometry y="120" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4YUMYSHRzpaiUrm7RpP6-9" value="fulltime" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="olPiNj3pjFvJZjpQiCiZ-9" vertex="1">
-          <mxGeometry x="450" y="650" width="140" height="150" as="geometry" />
+          <mxGeometry x="437" y="680" width="140" height="150" as="geometry" />
         </mxCell>
         <mxCell id="4YUMYSHRzpaiUrm7RpP6-10" value="- phuCap: double" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="4YUMYSHRzpaiUrm7RpP6-9" vertex="1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -131,11 +131,6 @@
           <mxGeometry x="-0.0533" y="-5" width="160" relative="1" as="geometry">
             <mxPoint x="400" y="550" as="sourcePoint" />
             <mxPoint x="439" y="510" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="olPiNj3pjFvJZjpQiCiZ-108" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Eg8PruuSy8XvjrYXQFky-24" vertex="1" connectable="0">
-          <mxGeometry x="0.7076" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
