@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Trang-1" id="LULvLW1KIduPpgqFY6G2">
-    <mxGraphModel dx="1006" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1184" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -15,6 +15,12 @@
         </mxCell>
         <mxCell id="4YUMYSHRzpaiUrm7RpP6-3" value="- tenNV: String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="4YUMYSHRzpaiUrm7RpP6-1" vertex="1">
           <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="olPiNj3pjFvJZjpQiCiZ-5" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=0.607;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.021;exitY=-0.1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="4YUMYSHRzpaiUrm7RpP6-1" source="4YUMYSHRzpaiUrm7RpP6-36" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="5" y="130" as="sourcePoint" />
+            <mxPoint y="60" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="4YUMYSHRzpaiUrm7RpP6-18" value="- ngayvaolam: Date" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="4YUMYSHRzpaiUrm7RpP6-1" vertex="1">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
@@ -188,12 +194,6 @@
             <Array as="points">
               <mxPoint x="630" y="190" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gO--ruFEF1_DkkOEOu1t-1" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;exitX=1.017;exitY=0.093;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="olPiNj3pjFvJZjpQiCiZ-9" source="4YUMYSHRzpaiUrm7RpP6-37">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="150" y="410" as="sourcePoint" />
-            <mxPoint x="290" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="olPiNj3pjFvJZjpQiCiZ-10" value="HashMap ThucDon" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;swimlaneFillColor=default;" parent="1" vertex="1">
